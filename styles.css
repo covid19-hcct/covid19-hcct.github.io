@@ -1,0 +1,48 @@
+body {
+  max-width: 700px;
+  margin:0 auto;
+}
+.title {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 150%;
+  padding: 30px;
+  max-width: 700px;
+  margin:0 auto;
+}
+
+.tagline {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 90%;
+  padding: 10px;
+  color: #4d4d4d;
+  max-width: 700px;
+  margin:0 auto;
+}
+
+.h3-heading {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.maintext {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 90%;
+  line-height: 130%;
+  padding: 10px;
+  color: #4d4d4d
+}
+
+a {
+  color:#cc002b;
+}
+
+hr {
+  border-top: 0.5px solid #b3b3b3;
+}
+
+img {
+  padding: 10px;
+  max-width: 20%;
+}
