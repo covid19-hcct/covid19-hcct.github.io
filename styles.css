@@ -11,6 +11,20 @@ body {
   text-align: center
 }
 
+.ads {
+  font-family: 'Work Sans', sans-serif;
+  font-style: italic;
+  font-size: 100%;
+  padding: 10px;
+  color: #4d4d4d;
+  max-width: 800px;
+  margin:0 auto;
+}
+
+.twitter-tweet {
+  margin:0 auto;
+}
+
 .tagline {
   font-family: 'Work Sans', sans-serif;
   font-size: 100%;
@@ -33,6 +47,10 @@ body {
   line-height: 130%;
   padding: 10px;
   color: #4d4d4d
+}
+
+.boldtext {
+  font-weight: bold;
 }
 
 a {
